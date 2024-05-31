@@ -37,22 +37,24 @@ int main() {
     robot r2;
 
     // Memberi nilai atribut objek menggunakan metode setter
-    r1.setNama("John");
-    r1.setUmur(30);
-    r1.setMbti("ISTJ");
+    r1.setNama("Hoshi");
+    r1.setUmur(17);
+    r1.setMbti("ISFP");
     r1.perkenalandiri();
 
     // Memberi nilai atribut objek menggunakan metode setter
     r2.setNama("Mingyu");
-    r2.setUmur(30);
-    r2.setMbti("ISTJ");
+    r2.setUmur(19);
+    r2.setMbti("INFP");
     r2.perkenalandiri();
 
     return 0;
 }
-```
+```  
 # OUTPUT
-![Screenshot (9)](https://github.com/DianaFriskaAulia/TugasAlpro/assets/156889167/e3fd2520-f525-4f9a-a00d-a38e452c90df)
+![Screenshot (12)](https://github.com/DianaFriskaAulia/TugasAlpro/assets/156889167/b2f46876-880c-42b8-b5bb-91281411af82)
+
+
 
 # 2. 00P PARFUM
 ```
